@@ -19,7 +19,7 @@ const DUMMY_PLACES = [
   },
   {
     id: "p2",
-    title: "Empire State Building",
+    title: "Empire STATE BLDG",
     description: "It is what it is",
     imageUrl:
       "https://upload.wikimedia.org/wikipedia/commons/1/10/Empire_State_Building_%28aerial_view%29.jpg",
